@@ -1,0 +1,11 @@
+{
+  "name": "stories",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:maq7P/Stories.git",
+  "author": "maq7 <maxpet16@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
